@@ -1,0 +1,198 @@
+@media (min-width: 767.98px) and (max-width: 992px){
+    .nav .navbar-brand {
+        font-size: 27px !important;
+    }
+    .nav .navbar-nav .nav-link {
+        font-size: 13px !important;
+    }
+    /* Footer Section  */
+    .footer-item-four h3 {
+        font-size: 20px !important;
+    }
+    .footer-item-second h3 {
+        font-size: 20px !important;
+    }
+    .footer-item-third h3 {
+        font-size: 20px !important;
+    }
+    .footer-item-first h3 {
+        font-size: 20px !important;
+    }
+    .footer-item-first p {
+        font-size: 11px !important;
+    }
+    .important-link-item span {
+        font-size: 12px !important;
+    }
+    .important-link-item a .fa {
+        margin-right: 4px;
+        font-size: 10px;
+    }
+    .important-link-item {
+        margin-bottom: 4px !important;
+    }
+    .social-icon .fab {
+        margin-right: 5px;
+        font-size: 16px !important;
+    }
+    .social-icon span {
+        font-size: 16px;
+    }
+    .contact-info .fa {
+        margin-right: 7px;
+        font-size: 12px;
+    }
+    .contact-info span {
+        font-size: 11px;
+    }
+    /* Teacher Slider */
+    .left-menu {
+        margin-bottom: 15px;
+    }
+    .right-header-slider {
+        margin-top: 15px;
+    }
+    /* Service Section  */
+    .service-text h3 {
+        font-size: 19px !important;
+        font-weight: bold;
+    }
+    .service-text p {
+        font-size: 14px !important;
+    }
+    /* Event Section  */
+    .event-des span {
+        font-size: 13px;
+    }
+    /* Start The about Page  */
+    .about-me-text h5 {
+        margin-bottom: 10px !important;
+    }
+    .about-me-text p {
+        font-size: 13px !important;
+        margin-bottom: 0px !important;
+    }
+    .institution h3 {
+        font-size: 27px !important;
+    }
+    .staff-profile .social {
+        font-size: 18px !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    /* Footer CSS  */
+    .footer {
+        padding: 25px 0px !important;
+    }
+    .footer-item-four h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-second h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-third h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-first h3 {
+        margin-top: 15px !important;
+    }
+    /* Teacher Slider */
+    .left-menu {
+        margin-bottom: 15px;
+    }
+    .right-header-slider {
+        margin-top: 15px;
+    }
+    /* Start Service Section  */
+    .service-item {
+        margin-bottom: 20px !important;
+    }
+    /* Start Event Section  */
+    .main-event {
+        margin-bottom: 20px;
+    }
+    /* contact Page  */
+    .contact-image img {
+        margin-bottom: 20px;
+    }
+    /* Start About Page  */
+    .about-me-image {
+        margin-top: 20px;
+    }
+    .institution h3 {
+        margin-bottom: 20px;
+    }
+    .staff-profile {
+        margin-bottom: 20px;
+    }
+    .staff-profile img {
+        margin-left: 61px;
+    }
+    .staff-profile h4 {
+        margin-top: 30px !important;
+    }
+    /* Start Academic Page  */
+    .tab-content{ 
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 575.98px){
+    /* Footer CSS  */
+    .footer {
+        padding: 25px 0px !important;
+    }
+    .footer-item-four h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-second h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-third h3 {
+        margin-top: 15px !important;
+    }
+    .footer-item-first h3 {
+        margin-top: 15px !important;
+    }
+    .modal-body h3 {
+        margin-top: 0.5rem !important;
+    }
+    /* Teacher Slider */
+    .left-menu {
+        margin-bottom: 15px;
+    }
+    .right-header-slider {
+        margin-top: 15px;
+    }
+    /* Start Service Section  */
+    .service-item {
+        margin-bottom: 20px !important;
+    }
+    /* Start Event Section  */
+    .main-event {
+        margin-bottom: 20px;
+    }
+    /* contact Page  */
+    .contact-image img {
+        margin-bottom: 20px;
+    }
+    /* Start About Page  */
+    .about-me-image {
+        margin-top: 20px;
+    }
+    .institution h3 {
+        margin-bottom: 20px;
+    }
+    .staff-profile {
+        margin-bottom: 20px;
+    }
+    .staff-profile h4 {
+        margin-top: 30px !important;
+    }
+    /* Start Academic Page  */
+    .tab-content{ 
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
